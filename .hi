@@ -1,4 +1,8 @@
 Hello
 Hi
-
+hi 2
+<<<<<<< HEAD
 Main mod
+=======
+1st mod
+>>>>>>> new-branch
